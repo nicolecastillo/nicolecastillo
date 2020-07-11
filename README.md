@@ -1,10 +1,10 @@
-### Hi there!
+### Hi there! ✨
+
 I'm Nicole Castillo, and I am a Computer Science Student at the University of Sonora.
 
 I'm currently doing an internship at the Center for Research in Open Source Software where I’ve learned plenty of things and tools that are going to be useful for me in future projects, from machine learning and open-source concepts to soft skills such as teamwork and how to communicate my doubts.
 
-When I'm not doing coding stuff, I pass the time by playing music, listening to podcasts, reading, and being super bad at video games. ✨
-
+When I'm not doing coding stuff, I pass the time by playing music, listening to podcasts, reading, and being super bad at video games. 
 <!--
 **nicolecastillo/nicolecastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
