@@ -1,8 +1,6 @@
 ### Hi there! ✨
 
-I'm Nicole Castillo, and I am a Computer Science Student at the University of Sonora.
-
-I'm currently doing an internship at the Center for Research in Open Source Software where I’ve learned plenty of things and tools that can be useful for me in future projects, from machine learning and open-source concepts to soft skills such as teamwork and how to communicate my doubts.
+I'm Nicole Castillo, and I am a Computer Science Student at the University of Sonora. I'm really interested in learning about machine learning and software engineering realated topics and tools.
 
 When I'm not doing coding stuff, I pass the time by playing music, listening to podcasts, reading, and being super bad at video games. 
 <!--
