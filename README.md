@@ -1,6 +1,6 @@
 ### Hi there! ✨
 
-I'm Nicole Castillo, and I am a Computer Science Student at the University of Sonora. I'm really interested in learning about machine learning and software engineering realated topics and tools.
+I'm Nicole Castillo, and I am a Computer Science Student at the University of Sonora. I'm really interested in learning about machine learning and software engineering related topics and tools.
 
 When I'm not doing coding stuff, I pass the time by playing music, listening to podcasts, reading, and being super bad at video games. 
 <!--
